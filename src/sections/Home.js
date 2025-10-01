@@ -14,10 +14,10 @@ export default function Home() {
                             Henry <br /> Williams
                         </h1>
                         <p className=" justify-center text-white text-opacity-50 text-justify text-xl mt-9">
-                            Full-Stack Enthusiast ·
+                            Full-Stack Enthusiast · Software Engineer · Python Developer
                         </p>
                         <div className="flex gap-4">
-                            <a href="https://www.linkedin.com/in/henrywilliams/">
+                            {/* <a href="https://www.linkedin.com/in/henrywilliams/">
                                 <img
                                     loading="lazy"
                                     src="./linkedIn.svg"
@@ -32,7 +32,7 @@ export default function Home() {
                                     alt="github"
                                     className="aspect-square object-contain object-center overflow-hidden shrink-0 mt-8"
                                 />
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>
