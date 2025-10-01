@@ -46,7 +46,7 @@ export default function Home() {
                 </div>
                 <div className="flex flex-col  items-stretch w-[14%] ml-5 max-md:w-full">
                     <div className="flex  justify-end md:items-end flex-col my-auto max-md:mt-52">
-                        <a download={'Henry-Williams.pdf'} href="./Henry-Williams.pdf" className="flex  max-w-full items-start gap-2 text-center">
+                        {/* <a download={'Henry-Williams.pdf'} href="./Henry-Williams.pdf" className="flex  max-w-full items-start gap-2 text-center">
                             <button
                                 className="justify-center text-violet-600 text-base font-semibold self-center my-auto"
                             >
@@ -59,8 +59,8 @@ export default function Home() {
                                 alt="arrow"
                                 className=" my-auto aspect-square object-cover object-center w-4 overflow-hidden shrink-0"
                             />
-                        </a>
-                        <a className="flex  max-w-full items-start gap-2 text-center" href="https://drive.google.com/file/d/1OCnEeIES82cZqCdjHGg5enyKYMnNhQft/view?usp=sharing">
+                        </a> */}
+                        <a className="flex  max-w-full items-start gap-2 text-center" href="https://drive.google.com/file/d/1rEu3P9rO60lAy5Mm071VlLrTVyrEFVpX/view?usp=sharing">
                             <button
                                 className="justify-center text-violet-600 text-base font-semibold self-center my-auto"
                             >
