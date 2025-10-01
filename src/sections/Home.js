@@ -76,12 +76,12 @@ export default function Home() {
 
                         </a>
                         <Link to="Contact" smooth className="border w-max flex  items-start gap-2 mt-3 pl-4 pr-5 py-2.5 rounded-2xl border-solid border-violet-600 ">
-                            <img
+                            {/* <img
                                 loading="lazy"
                                 src="WhatsAppLogo.svg"
                                 alt="whatsapp"
                                 className="aspect-square object-cover object-center w-6 overflow-hidden shrink-0"
-                            />
+                            /> */}
                             <div className="justify-center cursor-pointer text-violet-600 text-base font-semibold self-center my-auto">
                                 Lets Talk
                             </div>
