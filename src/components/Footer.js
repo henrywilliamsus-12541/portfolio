@@ -5,7 +5,7 @@ export default function Footer() {
                 <div className="justify-center absolute w-1/4 text-white text-opacity-50 text-base self-center grow shrink-0 basis-auto my-auto">
                     © <span className="max-[750px]:hidden">
                         
-                        2021 Henry Williams. All rights reserved.
+                        2025 Henry Williams. All rights reserved.
                         </span>
                 </div>
                 {/* <div className="self-stretch flex items-start justify-between gap-5 max-md:justify-center">
