@@ -60,7 +60,7 @@ export default function Home() {
                                 className=" my-auto aspect-square object-cover object-center w-4 overflow-hidden shrink-0"
                             />
                         </a> */}
-                        <a className="flex  max-w-full items-start gap-2 text-center" href="https://drive.google.com/file/d/1OCnEeIES82cZqCdjHGg5enyKYMnNhQft/view?usp=sharing">
+                        <a className="flex  max-w-full items-start gap-2 text-center" href="https://drive.google.com/file/d/1rEu3P9rO60lAy5Mm071VlLrTVyrEFVpX/view?usp=sharing">
                             <button
                                 className="justify-center text-violet-600 text-base font-semibold self-center my-auto"
                             >
