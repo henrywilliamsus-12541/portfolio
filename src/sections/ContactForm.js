@@ -14,7 +14,7 @@ export default function ContactForm() {
             <div className="self-stretch my-20 max-md:max-w-full">
                 <div className="gap-5 flex max-md:flex-col max-md:items-stretch max-md:gap-0">
                     <a target="_blank"
-                        rel="noopener noreferrer" href="tel:+916305817648" className="flex flex-col items-stretch w-[46%] max-md:w-full">
+                        rel="noopener noreferrer" href="tel:+13395294785" className="flex flex-col items-stretch w-[46%] max-md:w-full">
                         <div className="border flex w-[246px] max-w-full items-start gap-1 m-auto pl-4 pr-5 py-3 rounded-2xl border-solid border-violet-600 border-opacity-50 max-md:mt-12">
                             <img
                                 loading="lazy"
@@ -26,7 +26,7 @@ export default function ContactForm() {
                             </div>
                         </div>
                     </a>
-                    <a target="_blank" rel="noopener noreferrer" href="mailto:henrywilliams170@gmail.com" className="cursor-pointer flex flex-col items-stretch w-[46%] max-md:w-full">
+                    <a target="_blank" rel="noopener noreferrer" href="mailto:henrywilliamsus@gmail.com" className="cursor-pointer flex flex-col items-stretch w-[46%] max-md:w-full">
                         <div className="border flex w-[246px] max-w-full items-start gap-1 m-auto pl-4 pr-5 py-3 rounded-2xl border-solid border-violet-600 border-opacity-50 max-md:mt-12">
                             <img
                                 loading="lazy"

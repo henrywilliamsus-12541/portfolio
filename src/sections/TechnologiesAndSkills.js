@@ -35,7 +35,7 @@ export default function TechnologiesAndSkills() {
                     <FontAwesomeIcon icon={faNodeJs} className="text-[rgba(123,74,226,0.5)] text-8xl " />
                 </div>
                 <h2 className="justify-center text-white text-opacity-50 text-center text-2xl self-center max-w-[568px] mt-16 max-md:max-w-full">
-                    Other Techs I have worked with
+                    Certifications
                 </h2>
                 <div className="flex overflow-x-scroll max-[574px]:justify-start items-center justify-center mt-10 gap-9">
                     <IconBrandNextjs className="text-[rgba(123,74,226,0.5)] shrink-0 text-8xl w-16 h-16" />
